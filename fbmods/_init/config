@@ -1,0 +1,11 @@
+Package: PACKNAME
+Name: NAME
+Description: DESCRIPTION
+Author: Azhai <1229991003@qq.com>
+Maintenance: azhai <1229991003@qq.com>
+Homepage: https://fourbrother.cn
+Type: extension
+InstallPath: modules/qms
+SubPath: qms
+Filename: qms
+Version: 0.1.1
