@@ -1,0 +1,21 @@
+{
+    "name": "bobzhai/fbmodules",
+    "description": "This is modules for fourbrother partform ",
+    "type": "project",
+    "license": "MIT",
+    "homepage": "https://fourborther.com",
+    "authors": [
+        {
+            "name": "Bob Zhai",
+            "email": "support@fourborther.com",
+            "homepage": "http://fourborther.com",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "repositories": [],
+    "require": {
+        "php": ">=5.5.0"
+    }
+}
